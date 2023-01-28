@@ -31,9 +31,9 @@ const About = () => {
                         idx={15}
                     />
                 </h1>
-                <p>kvotheei</p>
-                <p>cool resume</p>
-                <p>auditor 23 yo future developer</p>
+                <h2>Positive, motivated, friendly, team player</h2>
+                <p>Have a great desire to change my working field, can have a basic conversation in English. Have an experience in React, HTML, JS, CSS. Familliar with GIT, have been working with Node.js.</p>
+                <p>As of now i've finished 3 FreeCodeCamp courses for Front-end developers, had an experience with real commercial project on POS (small bug-fixes). There is also this *CV*, simple To-do list and TicToe game on my github.</p>
             </div>
             <div className='stage-cube-cont'>
                 <div className='cubespinner'>

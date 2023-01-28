@@ -42,7 +42,7 @@ const Contact = () => {
     return (
         <>
             <div className='container contact-page'>
-                <div className='text-zone'>
+                <div className='container text-zone'>
                     <h1>
                        <AnimatedLetters 
                        letterClass={letterClass}
@@ -51,7 +51,7 @@ const Contact = () => {
                        /> 
                     </h1>
                     <p>
-                        i'm good ok ok contact me
+                        You can contact me at any time on my gmail (you can see it on the map) or simply fill out the form below :)
                     </p>
                     <div className='contact-form'>
                     <form ref={refForm} onSubmit={sendEmail}>
